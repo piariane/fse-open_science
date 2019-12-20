@@ -9,4 +9,4 @@
 
 - Science on Open Science, for example, what are the statistics on non- and 
 preregistered articles (e.g. percentage of null findings)? (Richel suggestion)
-- DORA declaration and how to reward open science (Pi suggestion)
+- DORA declaration and how to reward open science (Pi would like to prepare a presentation on DORA declaration)
