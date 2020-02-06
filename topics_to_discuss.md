@@ -11,3 +11,4 @@
 preregistered articles (e.g. percentage of null findings)? (Richel suggestion)
 - DORA declaration and how to reward open science (Pi would like to prepare a presentation on DORA declaration)
 - Open Peer Review (suggestion by Malvin)
+- "Journal club" style discussion - everyone reads an interesting article and we discuss it. 
